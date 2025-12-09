@@ -1,3 +1,3 @@
-following the tutorial, adding a line that should cause a conflict 
+following the tutorial, adding a different change 
 
 new line
