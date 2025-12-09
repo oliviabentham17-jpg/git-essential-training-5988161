@@ -1,3 +1,3 @@
-following the tutorial adding a change
+following the tutorial
 
 new line
